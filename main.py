@@ -27,7 +27,7 @@ def add_numbers(a, b):
 greet("Alice")
 greet("Bob")
 
-result = add_numbers(5, 10)
-print(f"The result is {result}")
+result_one = add_numbers(5, 10)
+print(f"The result is {result_one}")
 
 greet("Charlie")
